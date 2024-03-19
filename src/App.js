@@ -12,7 +12,7 @@ import Hooks from "./components/pages/hooks/Hooks";
 import Error from "./components/pages/error/Error";
 // add your folder here
 import Carbonell from "./components/pages/Carbonell/Carbonell";
-
+import Aguas from "./components/pages/Aguas/Aguas"
 
 
 import './App.css';
@@ -31,7 +31,7 @@ function App() {
           <Route path="/" element={<Template />}>
             {/* Uncomment your route path */}
             <Route path="/Carbonell" element={<Carbonell />} />
-            {/* <Route path="/Aguas" element={<Aguas />} /> */}
+            <Route path="/Aguas" element={<Aguas />} />
             {/* <Route path="/Baguio" element={<Baguio />} /> */}
             {/* <Route path="/Del-Ayre" element={<Del-Ayre />} /> */}
             {/* <Route path="/Bersabal" element={<Bersabal />} /> */}
