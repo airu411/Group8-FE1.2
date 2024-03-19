@@ -18,18 +18,13 @@ function Nav() {
                     <li> {/* Change to your surname  */}
                         <Link to="/Aguas" className="link">Aguas</Link>
                     </li>
-
-
-                    <li>
-                        <Link to="/map" className="link">Del Ayre</Link>
-                    </li>
-
+                    
                     <li>
                         <Link to="/hooks" className="link">Baguio</Link>
                     </li>
 
                     <li>
-                        <Link to="/hooks" className="link">Bersabal</Link>
+                        <Link to="/Bersabal" className="link">Bersabal</Link>
                     </li>
                 </ul>
             </div>
