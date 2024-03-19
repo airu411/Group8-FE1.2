@@ -13,7 +13,7 @@ import Error from "./components/pages/error/Error";
 // add your folder here
 import Carbonell from "./components/pages/Carbonell/Carbonell";
 import Aguas from "./components/pages/Aguas/Aguas"
-
+import Bersabal from "./components/pages/Bersabal/Bersabal"
 
 import './App.css';
 
@@ -33,8 +33,8 @@ function App() {
             <Route path="/Carbonell" element={<Carbonell />} />
             <Route path="/Aguas" element={<Aguas />} />
             {/* <Route path="/Baguio" element={<Baguio />} /> */}
-            {/* <Route path="/Del-Ayre" element={<Del-Ayre />} /> */}
-            {/* <Route path="/Bersabal" element={<Bersabal />} /> */}
+            
+            <Route path="/Bersabal" element={<Bersabal />} />
 
             {/* <Route path="/effect" element={<Effect />} />
             <Route path="/map" element={<Map />} />
