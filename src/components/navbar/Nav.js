@@ -16,7 +16,7 @@ function Nav() {
                     </li>
 
                     <li> {/* Change to your surname  */}
-                        <Link to="/effect" className="link">Aguas</Link>
+                        <Link to="/Aguas" className="link">Aguas</Link>
                     </li>
 
 
