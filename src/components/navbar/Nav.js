@@ -20,7 +20,7 @@ function Nav() {
                     </li>
                     
                     <li>
-                        <Link to="/hooks" className="link">Baguio</Link>
+                        <Link to="/Baguio" className="link">Baguio</Link>
                     </li>
 
                     <li>
