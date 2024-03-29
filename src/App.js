@@ -12,9 +12,10 @@ import Hooks from "./components/pages/hooks/Hooks";
 import Error from "./components/pages/error/Error";
 // add your folder here
 import Carbonell from "./components/pages/Carbonell/Carbonell";
-import Aguas from "./components/pages/Aguas/Aguas"
-import Baguio from "./components/pages/Baguio/Baguio"
-import Bersabal from "./components/pages/Bersabal/Bersabal"
+import Aguas from "./components/pages/Aguas/Aguas";
+import Baguio from "./components/pages/Baguio/Baguio";
+import Bersabal from "./components/pages/Bersabal/Bersabal";
+import DelAyre from "./components/pages/DelAyre/DelAyre";
 
 import './App.css';
 
@@ -35,6 +36,7 @@ function App() {
             <Route path="/Aguas" element={<Aguas />} />
             <Route path="/Baguio" element={<Baguio />} />
             <Route path="/Bersabal" element={<Bersabal />} />
+            <Route path="/DelAyre" element={<DelAyre />} />
 
             {/* <Route path="/effect" element={<Effect />} />
             <Route path="/map" element={<Map />} />

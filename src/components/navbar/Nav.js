@@ -26,6 +26,10 @@ function Nav() {
                     <li>
                         <Link to="/Bersabal" className="link">Bersabal</Link>
                     </li>
+
+                    <li>
+                        <Link to="/DelAyre" className="link">Del Ayre</Link>
+                    </li>
                 </ul>
             </div>
 
