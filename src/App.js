@@ -13,7 +13,7 @@ import Error from "./components/pages/error/Error";
 // add your folder here
 import Carbonell from "./components/pages/Carbonell/Carbonell";
 import Aguas from "./components/pages/Aguas/Aguas"
-import Baguio from "./components/pages/Bersabal/Bersabal"
+import Baguio from "./components/pages/Baguio/Baguio"
 import Bersabal from "./components/pages/Bersabal/Bersabal"
 
 import './App.css';
