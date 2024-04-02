@@ -4,4 +4,5 @@
 
 ### `npm start`
 # lesson2
-# Group8 - FE1.2
+
+## Washington (Group 8) - FE1.2
